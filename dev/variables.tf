@@ -11,3 +11,15 @@ variable "amiid" {}
 variable "machinetype" {}
 
 variable "keyname" {}
+
+variable "vpcname" {}
+
+variable "availablity-zone" {}
+
+variable "IGname" {}
+
+variable "rtname" {}
+
+variable "subname" {}
+
+
